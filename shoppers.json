@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "name": "Essential Everyday, GRADE A LARGE FRESH EGGS",
+      "price": 5.49
+    },
+    {
+      "name": "Essential Everyday, GRADE A LARGE FRESH EGGS",
+      "price": 7.89
+    },
+    {
+      "name": "Essential Everyday, GRADE A JUMBO FRESH EGGS",
+      "price": 6.19
+    },
+    {
+      "name": "Eggland's Best, Eggs, Large, 12 count",
+      "price": 4.99
+    },
+    {
+      "name": "Essential Everyday, GRADE A EXTRA LARGE FRESH EGGS",
+      "price": 5.99
+    },
+    {
+      "name": "Eggland's Best, Cage Free Large Brown Eggs, 12 count, 24 oz",
+      "price": 4.79
+    },
+    {
+      "name": "Wild Harvest, GRADE A CAGE FREE LARGE BROWN EGGS",
+      "price": 5.29
+    },
+    {
+      "name": "Eggland's Best, Eggs, Extra Large, 12 count, 27 oz",
+      "price": 5.29
+    },
+    {
+      "name": "Eggland's Best, Large Eggs, 18 count, 36 oz",
+      "price": 6.99
+    },
+    {
+      "name": "Essential Everyday, MEDIUM GRADE A FRESH EGGS",
+      "price": 4.99
+    },
+    {
+      "name": "Eggland's Best, Organic Brown Eggs, Large, 12 count, 24 oz",
+      "price": 5.99
+    },
+    {
+      "name": "Wild Harvest, Organic GRADE A CAGE FREE LARGE BROWN EGGS",
+      "price": 7.69
+    },
+    {
+      "name": "Land O Lakes, Brown Eggs, Large, 12 count",
+      "price": 5.19
+    },
+    {
+      "name": "Pete & Gerry's, Pete and Gerry's Free Range Organic Eggs, Large, 12 count, 24 oz",
+      "price": 7.99
+    },
+    {
+      "name": "Nellies, Nellie's Large Free Range Eggs, 12 count, 24 oz",
+      "price": 6.69
+    }
+  ]
+}

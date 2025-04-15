@@ -1,0 +1,12 @@
+{
+	"stores": [
+		{
+			"name": "shoppers",
+			"products": [{ "productName": "egg1", "price": 4.59 }]
+		},
+        {
+			"name": "safeway",
+			"products": [{ "productName": "egg1", "price": 4.59 }]
+		}
+	]
+}
