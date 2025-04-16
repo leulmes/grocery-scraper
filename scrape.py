@@ -99,7 +99,8 @@ def scrapeShoppers(lat, lon):
             # print out the items that are likely to be an egg carton
             if egg_carton_score(name, 3):
                 # json_prod = json.dumps({"name": name, "price": price_float}, indent=2) # python dict -> json string
-                eggProducts.append({"name": name, "price": price_float})
+                eggProducts.append({"id": i, "name": name, "price": price_float})
+                
                 # print(f"Item {i + 1} name: {name} price: ${price_float} ")
 
         shoppers_dict['products'] = eggProducts
