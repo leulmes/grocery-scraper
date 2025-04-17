@@ -73,8 +73,16 @@ def scrapeShoppers(lat, lon):
         selector = "button[data-testid='store-select-link']"
         page.locator(selector).click()
 
-        selector = "button[aria-describedBy='shop2362']"
-        page.locator(selector).click()
+        # stores_list_selector = "div.store-cards-list"
+        # stores_list = page.locator(stores_list_selector)
+        # closest_store_selector = "div.store-cards-list div"
+        # closest_store = page.locator(closest_store_selector)
+        address_selector = "div.store-cards-list div span"
+        store_addy = page.locator(address_selector).nth(0).text_content()
+
+        # store_btn_selector = "button[aria-describedBy='shop2362']"
+        store_btn_selector = "div.store-cards-list div button"
+        page.locator(store_btn_selector).nth(0).click()
     
 
         selector = "div.product-grid"
@@ -99,7 +107,7 @@ def scrapeShoppers(lat, lon):
             # print out the items that are likely to be an egg carton
             if egg_carton_score(name, 3):
                 # json_prod = json.dumps({"name": name, "price": price_float}, indent=2) # python dict -> json string
-                eggProducts.append({"id": i, "name": name, "price": price_float})
+                eggProducts.append({"id": i, "store": "Shoppers", "loc": store_addy,"name": name, "price": price_float})
                 
                 # print(f"Item {i + 1} name: {name} price: ${price_float} ")
 

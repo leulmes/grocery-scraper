@@ -2,76 +2,106 @@
   "products": [
     {
       "id": 0,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Essential Everyday, GRADE A LARGE FRESH EGGS",
       "price": 5.49
     },
     {
       "id": 1,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Essential Everyday, GRADE A LARGE FRESH EGGS",
       "price": 7.89
     },
     {
       "id": 2,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Essential Everyday, GRADE A JUMBO FRESH EGGS",
       "price": 6.19
     },
     {
       "id": 3,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Eggland's Best, Eggs, Large, 12 count",
       "price": 4.99
     },
     {
       "id": 4,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Essential Everyday, GRADE A EXTRA LARGE FRESH EGGS",
       "price": 5.99
     },
     {
       "id": 5,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Eggland's Best, Cage Free Large Brown Eggs, 12 count, 24 oz",
       "price": 4.79
     },
     {
       "id": 6,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Wild Harvest, GRADE A CAGE FREE LARGE BROWN EGGS",
       "price": 5.29
     },
     {
       "id": 7,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Eggland's Best, Eggs, Extra Large, 12 count, 27 oz",
       "price": 5.29
     },
     {
       "id": 8,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Eggland's Best, Large Eggs, 18 count, 36 oz",
       "price": 6.99
     },
     {
       "id": 9,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Essential Everyday, MEDIUM GRADE A FRESH EGGS",
       "price": 4.99
     },
     {
       "id": 10,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Eggland's Best, Organic Brown Eggs, Large, 12 count, 24 oz",
       "price": 5.99
     },
     {
       "id": 11,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Wild Harvest, Organic GRADE A CAGE FREE LARGE BROWN EGGS",
       "price": 7.69
     },
     {
       "id": 12,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Land O Lakes, Brown Eggs, Large, 12 count",
       "price": 5.19
     },
     {
       "id": 15,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Pete & Gerry's, Pete and Gerry's Free Range Organic Eggs, Large, 12 count, 24 oz",
       "price": 7.99
     },
     {
       "id": 16,
+      "store": "Shoppers",
+      "loc": "Address: 18066 Mateny Rd Germantown, MD 20874. Distance: 8 miles.",
       "name": "Nellies, Nellie's Large Free Range Eggs, 12 count, 24 oz",
       "price": 6.69
     }
